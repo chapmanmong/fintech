@@ -1,5 +1,9 @@
 # FinTech
-Repository for fintech bootcamp activity
+## Repository for fintech bootcamp activity
+### Table of Contents
+1. [Code]("code/")
+2. [Data]("data/")
+3. [Images]("images/")
 
 ## Who are you? What's your background?
 A human with a background in translation, computer engineering, and dancing.
